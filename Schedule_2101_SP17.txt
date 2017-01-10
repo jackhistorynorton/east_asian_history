@@ -5,7 +5,7 @@
 ### Week 1, January 9-13: History Bootcamp I ###
 
 **Read, View, or Play**: 
-**Quiz** Read the Readings for Week 2(History Bootcamp II) and take the quiz on D2L by Sunday night at 8 p.m. **
+**Quiz** Read the Readings for Week 2(History Bootcamp II) and take the quiz on D2L by Monday night at 8 p.m. **
 
 * [Video intro to historical thinking](http://teachinghistory.org/historical-thinking-intro) 
 
@@ -23,125 +23,109 @@
 
 
 **Do**: [Markdown Tutorial](http://commonmark.org/help/tutorial/)
-**Quiz**: Module 2.1 Readings (Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 2 Discussion Posts
+**Quiz**: Module 2.1 Readings (Open Friday at noon until Monday at 8 p.m.)
+
 
 ### Week 3, January 22-27 ###
 
 **Read, View, or Play**: 
 **Do**: Module 2.1 Assignment
 Complete the [Markdown Tutorial](http://commonmark.org/help/tutorial/)
-**Quiz**: Module 2.2 Readings(Open Thursday at noon until Sunday at 8 p.m.)
+**Quiz**: Module 2.2 Readings (Open Friday at noon until Monday at 8 p.m.)
 
 
 ### Week 4, January 30 - February 3 ###
 
 **Read, View, or Play**: 
+**Do** Module 2.2 Assignment 
+**Quiz**: Module 3.1 Readings (Open Friday at noon until Monday at 8 p.m.)
 
-**Do** [Time II Assignment](http://jacknorton.org/wp-content/uploads/2016/09/Time_II_-Lesson_Plan.html)
-**Quiz**: Images I Readings (Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 4 Discussion Posts
 
 ### Week 5, Feburary 5 - 10, Images I ###
 
 **Read, View, or Play**: 
-**Do**: [Images I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/images_assignment_1_1101.html)
-**Quiz**: Images II Readings (Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 5 Discussion Posts
+**Do**: Module 3.1 Assignment
+**Quiz**: Module 3.2 Readings (Open Friday at noon until Monday at 8 p.m.)
+
 
 ### Week 6, February 12-17, Images II ###
 
 **Read, View, or Play**: 
 
-**Do**: [Images II Assignment](http://jacknorton.org/wp-content/uploads/2016/09/Images_2_assignment.html)
-**Quiz**: Maps I Readings(Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 6 Discussion Posts
+**Do**: Module 3.2 Assignment
+**Quiz**: Module 4.1 Readings(Open Friday at noon until Monday at 8 p.m.)
+
 
 ### Week 7, February 19-24, Maps Week I ###
  
 **Read, View, or Play**: 
+**Do**: Module 4.1 Assignment
+**Quiz**: Module 4.2 Readings(Open Friday at noon until Monday at 8 p.m.)
 
-[Introduction to GIS](https://www.dropbox.com/s/7qsa5idaj3noz2t/GISIntro1101_NoARCGIS.pdf?dl=0) Click on link to Download pdf. 
-
-
-**Do**: [Maps I Assignment](http://jacknorton.org/wp-content/uploads/2016/09/maps-lesson-i.html)
-**Quiz**: Maps II Readings(Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 7 Discussion Posts
 
 ### Week 8, February 26 - March 3, Maps II ###
 
 **Read, View, or Play**: 
-**Do**: [Maps II Assignment](http://jacknorton.org/wp-content/uploads/2016/10/maps2lesson.html)
-Face-to-Face class: [Video](http://mnpals.normandale.edu/F/3G19YR5CIV6QN21FM942CKKYYNCCEF3A2BMDRXHFH26EQ6R8IM-21835?func=full-set-set&set_number=293799&set_entry=000020&format=999) Roman archeology we watched in class. 
-**Quiz**: Words I Readings(Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 8 Discussion Posts
+**Do**: Module 4.2 Assignment
+**Quiz**: Module 5.1 Readings(Open Friday at noon until Monday at 8 p.m.)
 
 ### Spring Break ### 
 
 ### Week 9, March 12 - 17, Words I ###
 
 **Read, View, or Play**: 
+**Do**:  Module 5.1  Assignment
+**Quiz**: Module 5.2 Readings (Open Friday at noon until Monday at 8 p.m.)
 
-[Voyant Tools website](http://voyant-tools.org/)
-
-**Do**:  [Words I Assignment](http://jacknorton.org/wp-content/uploads/2016/10/words-lesson-plan-i_2016_10_14.html)
-**Quiz**: Words I Readings (Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 9 Discussion Posts
 
 ### Week 10, March 19 - 24, Words II, Quiz 9 ###
 
 **Read, View, or Play**:
+**Do**: Module 5.2 Assignment
+**Quiz**: Module 6.1 Readings (Open Friday at noon until Monday at 8 p.m.)
 
-**Do**:  [Words II Assignment](http://jacknorton.org/wp-content/uploads/2016/10/words_2_-assignment_1101.html)
-**Quiz**: Numbers I Readings (Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 10 Discussion Posts
 
 ### Week 11, March 26 - 31, Numbers I ###
 
 **Read, View, or Play**: 
+**Do**: Module 6.1 Assignment
+**Quiz**: 6.2 Readings (Open Friday at noon until Monday at 8 p.m.)
 
-**Do**: [Numbers I Assignment](http://jacknorton.org/wp-content/uploads/2016/10/numbers_1_-assignment_1101.html)
-**Quiz**: Numbers II Readings (Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 11 Discussion Posts
 
 ### Week 12, April 2 - 7, Numbers II ###
 
 **Read, View, or Play**: 
-**Do**: [Numbers 2 Assignment](http://jacknorton.org/wp-content/uploads/2016/11/numbers_2_assignment_1101.html) 
-[Select Per Capita GDP World History Excel File](http://jacknorton.org/wp-content/uploads/2016/11/SelectCapitaGDP1_1500.xlsx)
-**Quiz**: Conversations I Readings (Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 12 Discussion Posts
+**Do**: Module 6.2 Assignment
+**Quiz**: Module 7.1 Readings (Open Friday at noon until Monday at 8 p.m.)
+
 
 ### Week 13, April 2 - 7, Conversations I ###
 
 **Read, View, or Play**:
+**Do**: Module 7.1 Assignment
+**Quiz**: Module 8.2 Readings (Open Friday at noon until Monday at 8 p.m.)
 
-**Do**: [Conversations 1 Assignment](http://jacknorton.org/conversations-1-assignment-1101/)
-**Quiz**: Conversations I Readings (Open Thursday at noon until Sunday at 8 p.m.)
-**Do**: Week 13 Discussion Posts
 
 ### Week 14, April 9 - 14, Conversations II, Quiz 13 ###
 
 **Read, View, or Play**: 
-
-**Do**: [Conversations 2 Assignment](http://jacknorton.org/wp-content/uploads/2016/11/conversations_2_assignment_1101.html)
+**Do**: Module 7.2 Assignment
 **Quiz**: None
-**Do**: Week 14 Discussion Posts
+
 
 ### Week 15, April 23 - 28, Final Exhibit I ###
 
 **Read, View, or Play**: 
-**Do**:  [Exhibits 1 Assignment](http://jacknorton.org/wp-content/uploads/2016/11/exhibit_assignments_1_2_final.html)
+**Do**: Final Exam preparation assignment 1
 **Quiz**: None
-**Do**: Week 15  Discussion Posts
+
 
 ### Week 16, April 30 - May 5
 
 **Read, View, or Play**: 
-**Do**: [Exhibits 2 Assignment: Peer Review (html)](http://jacknorton.org/wp-content/uploads/2016/12/exhibits_assignment_2_review_1101.html)
-[Exhibits 2 Assignment: Peer Review (txt file)](http://jacknorton.org/wp-content/uploads/2016/12/exhibits_assignment_2_review_1101.txt)
+**Do**: Final Exam preparation assignment
 **Quiz**: None
-**Do**: Week 16 Discussion Posts
+
 
 ### Week 17 (Finals), May 7-12
 
