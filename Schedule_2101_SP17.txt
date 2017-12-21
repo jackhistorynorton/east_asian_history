@@ -14,13 +14,16 @@
 * [Plagiarism tutorial](http://www.lib.usm.edu/legacy/plag/plagiarismtutorial.php)
 
 **Do**: Read the Read this first document after Wednesday at noon, read the syllabus, take the [syllabus quiz on [D2L](https://normandale.ims.mnscu.edu/index.asp) after Wednesday at noon and tell me a bit about yourself in the get-to-know-your [form](https://goo.gl/forms/aRQuvzddn7KmoRw22)
-**Quiz**: Module 1.1 Readings 
-
+**Quiz**: History Bootcamp II Readings 
 
 ### Week 2, January 15 - 20: History Bootcamp II ###
 
 **Read, View, or Play**: _You will need your Star ID to log in to our Library Databases for these readings._ 
 
+1. "[climate and geography in ancient Asia and the Pacific"](http://ndcproxy.mnpals.net/login?url=http://online.infobase.com/Auth/Index?aid=100853&itemid=WE49&articleId=227152) Blackwell, Amy Hackney. "Climate and Geography in Ancient Asia and the Pacific." Encyclopedia of Society and Culture in the Ancient World. Facts On File, 2007. Accessed January 12, 2017. http://online.infobase.com/HRC/LearningCenter/Details/7?articleId=227152. Sections on Himalayas, China, Siberia/Mongolia and Japan, Mainland Southeast Asia, and Indonesia. 
+2. [government organization in ancient Asia and the Pacific](http://ndcproxy.mnpals.net/login?url=http://online.infobase.com/Auth/Index?aid=100853&itemid=WE49&articleId=226416) Blackwell, Amy Hackney. "Government Organization in Ancient Asia and the Pacific." Encyclopedia of Society and Culture in the Ancient World. Facts On File, 2007. Accessed January 12, 2017. http://online.infobase.com/HRC/LearningCenter/Details/7?articleId=226416. Sections on China, Japan, SE Asia
+3. [social organization in ancient Asia and the Pacific](http://ndcproxy.mnpals.net/login?url=http://online.infobase.com/Auth/Index?aid=100853&itemid=WE49&articleId=226277) Beetz, Kirk H. "Social Organization in Ancient Asia and the Pacific." Encyclopedia of Society and Culture in the Ancient World. Facts On File, 2007. Accessed January 12, 2017. http://online.infobase.com/HRC/LearningCenter/Details/7?articleId=226277. Sections on China, Japan. 
+4. [Rice Feeds a Civilization](http://ndcproxy.mnpals.net/login?url=http://go.galegroup.com/ps/i.do?p=GVRL&sw=w&u=mnanorman&v=2.1&it=r&id=GALE%7CCX3728000178&asid=eff8e2670e4b5e487c533b6514791ad7) "Rice Feeds a Civilization." In Global Events: Milestone Events Throughout History, edited by Jennifer Stock, 9-11. Vol. 2, Asia and Oceania. Farmington Hills, MI: Gale, 2014. Gale Virtual Reference Library (accessed January 12, 2017). 
 
 **Do**: [Markdown Tutorial](http://commonmark.org/help/tutorial/)
 **Quiz**: Module 2.1 Readings (Open Friday at noon until Monday at 8 p.m.)
